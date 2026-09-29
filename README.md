@@ -128,8 +128,6 @@ Analysis coverage includes:
 
 Covers:
 
-<img src="images/01_overview.png" alt="Overview Dashboard" width="900"/>
-
 - Total appointments
 - Attended appointments
 - No-show appointments
@@ -143,8 +141,6 @@ Covers:
 
 Covers:
 
-<img src="images/02_factor_analysis.png" alt="Factor Analysis Dashboard" width="900"/>
-
 - Overall no-show baseline
 - No-show rate by age group
 - No-show rate by health condition
@@ -156,8 +152,6 @@ The dashboard supports drill-down by age group, waiting time, and risk segment w
 ### 3. Detailed Analysis
 
 Covers:
-
-<img src="images/03_detailed_analysis.png" alt="Detailed Analysis Dashboard" width="900"/>
 
 - Monthly no-show trend
 - Appointment-day comparison
@@ -238,17 +232,21 @@ The heatmap shows that no-show patterns differ across waiting-time groups and SM
 
 ### Overview
 
-![Dashboard 1 - Overview](images/01_overview.png)
+<img src="images/01_overview.png" alt="Overview Dashboard" width="900"/>
 
 ### Factor Analysis
 
-![Dashboard 2 - Factor Analysis](images/02_factor_analysis.png)
+<img src="images/02_factor_analysis.png" alt="Factor Analysis Dashboard" width="900"/>
 
 ### Detailed Analysis
 
-![Dashboard 3 - Detailed Analysis](images/03_detailed_analysis.png)
+<img src="images/03_detailed_analysis.png" alt="Detailed Analysis Dashboard" width="900"/>
 
-> Add the three final dashboard screenshots to the `images/` folder using the filenames above.
+## Documentation
+
+- [Data Dictionary](documentation/data_dictionary.md)
+- [Key Insights](documentation/key_insights.md)
+- [Project Summary](documentation/project_summary.md)
 
 ## How to Reproduce
 
