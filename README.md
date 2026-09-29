@@ -242,6 +242,10 @@ The heatmap shows that no-show patterns differ across waiting-time groups and SM
 
 <img src="images/03_detailed_analysis.png" alt="Detailed Analysis Dashboard" width="900"/>
 
+## Tableau Dashboard
+
+[View Interactive Dashboard](https://public.tableau.com/shared/JZ3HZT249?:display_count=n&:origin=viz_share_link)
+
 ## Documentation
 
 - [Data Dictionary](documentation/data_dictionary.md)
