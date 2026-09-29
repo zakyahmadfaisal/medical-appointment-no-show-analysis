@@ -128,6 +128,8 @@ Analysis coverage includes:
 
 Covers:
 
+![Overview Dashboard](images/01_overview.png)
+
 - Total appointments
 - Attended appointments
 - No-show appointments
@@ -141,6 +143,8 @@ Covers:
 
 Covers:
 
+![Factor Analysis Dashboard](images/02_factor_analysis.png)
+
 - Overall no-show baseline
 - No-show rate by age group
 - No-show rate by health condition
@@ -152,6 +156,8 @@ The dashboard supports drill-down by age group, waiting time, and risk segment w
 ### 3. Detailed Analysis
 
 Covers:
+
+![Detailed Analysis Dashboard](images/03_detailed_analysis.png)
 
 - Monthly no-show trend
 - Appointment-day comparison
